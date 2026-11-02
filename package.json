@@ -1,0 +1,7 @@
+{
+  "name": "chat-2z8ew5",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
